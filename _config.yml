@@ -11,7 +11,7 @@ title                    : "Home" # text on the navigation bar
 title_separator          : "-"
 name                     : &name "Yun (Eric) Liang's Homepage" # page title, seo
 description              : &description "Associate Professor/Research Professor"
-url                      : https://yunliang.vercel.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ericlyun.vercel.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericlyun/ericlyun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
